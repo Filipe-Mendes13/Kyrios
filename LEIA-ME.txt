@@ -1,0 +1,26 @@
+KYRIOS HIGIENIZAÇÃO — SITE COMPLETO
+
+COMO ABRIR
+Extraia todos os arquivos do ZIP na mesma pasta e abra index.html no navegador.
+Não abra o HTML diretamente dentro do ZIP.
+
+COMO ENVIAR AO REPOSITÓRIO
+Envie os arquivos extraídos para a raiz do repositório, mantendo os nomes.
+O index.html precisa ficar ao lado das imagens e do vídeo. Não é necessário criar subpastas.
+O ZIP não deve ser enviado como substituto dos arquivos extraídos.
+
+O QUE ESTÁ INCLUÍDO
+HTML, CSS e JavaScript completos no index.html.
+Logo, ambiente, fotos antes/depois, vídeo de repelência e capa do vídeo.
+Comparador com arraste e teclado, menu para celular, animações suaves,
+avaliações fornecidas e links para WhatsApp +55 31 99703-0808.
+O vídeo é reproduzido quando o visitante aperta Play.
+
+GOOGLE ANALYTICS
+Ainda não instalado: falta o ID de medição da propriedade (G-...).
+Após publicar, envie o endereço do site e esse ID para configurar a medição.
+
+EDIÇÃO
+Edite index.html em um editor de texto. Para substituir uma mídia,
+mantenha o mesmo nome e extensão ou ajuste o caminho no HTML.
+Não há dependências, instalação de pacotes ou etapa de compilação.
